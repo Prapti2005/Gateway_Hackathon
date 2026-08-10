@@ -1,0 +1,5 @@
+ID,Category,Priority,Confidence
+MSG-001,Billing,High,0.95
+MSG-002,Technical Support,High,0.95
+MSG-003,Billing & Refunds,High,0.95
+MSG-004,Account Management,Low,0.98
